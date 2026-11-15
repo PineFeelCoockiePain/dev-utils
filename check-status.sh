@@ -1,1 +1,1 @@
-echo 'System check running: OK'
+echo 'System check running on PROD server: OK'
